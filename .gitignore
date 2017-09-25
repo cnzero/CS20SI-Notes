@@ -1,4 +1,4 @@
 # ignore jupyter notebook cache files
-.ipynb-checkpoints/*
+.ipynb_checkpoints/*
 # ignore TensorBoard cache files
 tmp/*
